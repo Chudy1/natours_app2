@@ -29,7 +29,7 @@
 87C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\sib-api-v3-sdk\src\api133312872695783381 1
 74C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\duplexer3133312872638721019 1
 79C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\multer\LICENSE133312872632777518 0
-62C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\.gitignore133310368439225765 0
+62C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\.gitignore133313014165667789 0
 90C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\xterm\src\addons\webLinks133312872684614420 1
 136C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133312874595370169 0
 108C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\@parcel\reporter-cli\lib\CLIReporter.js.map133312874594148948 0
@@ -156,7 +156,7 @@
 85C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\eslint\bin\eslint.js133312872663537671 0
 80C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\xss-filters\src133312872653035857 1
 80C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\xtend\.jshintrc133312872634816951 0
-69C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\public\js\bundled133312882611045678 1
+69C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\public\js\bundled133313013889843457 1
 102C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\json-stable-stringify-without-jsonify133312872648518636 1
 111C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\eslint-module-utils\node_modules\debug\LICENSE133312872633486167 0
 90C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\simple-concat\.travis.yml133312872643794549 0
@@ -181,7 +181,7 @@
 71C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\is-wsl133312872638516326 1
 101C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\xterm\src\addons\search\package.json133312872683757969 0
 81C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\lodash\sortBy.js133312872699407989 0
-82C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\public\js\bundled\index.js.map133312882611020383 0
+82C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\public\js\bundled\index.js.map133313013889823421 0
 85C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\isarray\package.json133312872632858286 0
 95C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\resolve\test\resolver\dot_main133312872667642503 1
 74C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\expect-ct133312872638663406 1
@@ -261,7 +261,7 @@
 89C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\lodash\fp\curryRightN.js133312872690854281 0
 93C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\es-abstract\2015\MakeTime.js133312872697722176 0
 113C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\@babel\types\lib\definitions\experimental.js.map133312872667249466 0
-66C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\views\base.pug133312879497830299 0
+66C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\views\base.pug133313029700029697 0
 72C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\is-glob133312872638554995 1
 113C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\eslint-plugin-es\lib\rules\no-async-functions.js133312872646507597 0
 111C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\posthtml\node_modules\htmlparser2\lib\index.js133312874587675875 0
@@ -531,7 +531,7 @@
 86C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\fastq\test\promise.js133312872640128847 0
 119C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\update-notifier\node_modules\color-name\.eslintrc.json133312872644945137 0
 84C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\css-tree\cjs\parser133312874603774119 1
-78C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\public\js\bundled\index.js133312882610932120 0
+78C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\public\js\bundled\index.js133313013889762539 0
 88C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\is-fullwidth-code-point133312872638541969 1
 84C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\stripe\cjs\utils.js133312872678057048 0
 99C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\node-addon-api\tools\check-napi.js133312872650439134 0
@@ -15143,7 +15143,7 @@
 79C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\extend\LICENSE133312872646965339 0
 81C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\extend\README.md133312872647806569 0
 96C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\express-rate-limit\changelog.md133312872640503238 0
-88C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\express-rate-limit\dist133312872645501854 1
+88C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\express-rate-limit\dist133312872646774051 1
 124C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean\index.js133312874596537683 0
 94C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\express-rate-limit\license.md133312872642232056 0
 96C:\Users\chukwudi\Desktop\NodeJS tutorial\Natours-2\node_modules\express-rate-limit\package.json133312872635775076 0
