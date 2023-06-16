@@ -18,7 +18,7 @@ const userRouter = require('./routes/userRoutes');
 const reviewRouter = require('./routes/reviewRoutes');
 const bookingRouter = require('./routes/bookingRoutes');
 const viewRouter = require('./routes/viewRoutes');
-const webhookCheckout = require('./controllers/bookingController');
+const { webhookCheckout } = require('./controllers/bookingController');
 
 const app = express();
 
