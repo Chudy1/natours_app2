@@ -53,14 +53,9 @@ app.use(
           'wss://natours-tours-2.onrender.com:1234/',
           'https://api.mapbox.com',
         ],
-        scriptSrc: ["'self'", 'https://api.mapbox.com'],
-        styleSrc: [
-          "'self'",
-          'https://fonts.googleapis.com/',
-          'https://api.mapbox.com',
-          "'unsafe-inline'",
-        ],
-        fontSrc: ["'self'", 'https://fonts.gstatic.com'],
+        scriptSrc: ["'self'", "'unsafe-inline'"],
+        styleSrc: ["'self'", "'unsafe-inline'"],
+        fontSrc: ["'self'", "'unsafe-inline'"],
       },
     },
   })
