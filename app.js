@@ -49,6 +49,8 @@ app.use(
         defaultSrc: ["'self'"],
         connectSrc: ["'self'", 'natours-tours-2.onrender.com'],
         scriptSrc: ["'self'"],
+        styleSrc: ["'self'", 'https://fonts.googleapis.com/'],
+        // styleSrcElem: ["'self'", 'https://fonts.googleapis.com'],
       },
     },
   })
