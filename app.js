@@ -47,10 +47,13 @@ app.use(
     contentSecurityPolicy: {
       directives: {
         defaultSrc: ["'self'"],
-        connectSrc: ["'self'", 'natours-tours-2.onrender.com'],
+        connectSrc: [
+          "'self'",
+          'natours-tours-2.onrender.com',
+          'wss://natours-tours-2.onrender.com:1234/',
+        ],
         scriptSrc: ["'self'"],
         styleSrc: ["'self'", 'https://fonts.googleapis.com/'],
-        // styleSrcElem: ["'self'", 'https://fonts.googleapis.com'],
       },
     },
   })
