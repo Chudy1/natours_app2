@@ -47,6 +47,9 @@ app.use(
       directives: {
         defaultSrc: ["'self'"],
         connectSrc: ["'self'", 'natours-tours-2.onrender.com'],
+        scriptSrc: ["'self'"],
+        styleSrc: ["'self'", 'https:'],
+        imgSrc: ["'self'", 'data:'],
       },
     },
   })
