@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Learning Node, Express and MongoDb",
   "main": "app.js",
+  "targets": {
+    "main": false
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
