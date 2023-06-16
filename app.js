@@ -53,7 +53,7 @@ app.use(
           'wss://natours-tours-2.onrender.com:1234/',
         ],
         scriptSrc: ["'self'"],
-        styleSrc: ["'self'", 'https://fonts.googleapis.com/'],
+        styleSrc: ["'self'", 'https://fonts.googleapis.com/', 'unsafe-inline'],
       },
     },
   })
