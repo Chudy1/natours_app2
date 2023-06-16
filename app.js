@@ -43,14 +43,8 @@ app.use(
   helmet({
     contentSecurityPolicy: {
       directives: {
-        defaultSrc: ["'self'", 'http://127.0.0.1:5000/*'],
-        baseUri: ["'self'"],
-        fontSrc: ["'self'", 'https:', 'data:'],
-        scriptSrc: ["'self'", 'https://*.stripe.com'],
-        frameSrc: ["'self'", 'https://*.stripe.com'],
-        objectSrc: ["'none'"],
-        styleSrc: ["'self'", 'https:', "'unsafe-inline'"],
-        upgradeInsecureRequests: [],
+        defaultSrc: ["'self'", 'natours-tours-2.onrender.com'],
+        connectSrc: ["'self'", 'natours-tours-2.onrender.com'],
       },
     },
   })
