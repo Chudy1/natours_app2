@@ -55,7 +55,7 @@ app.use(
         scriptSrc: ["'self'"],
         styleSrc: [
           "'self'",
-          'https://fonts.googleapis.com/',
+          'https://fonts.googleapis.com/?family=Lato:300,300i,700',
           "'unsafe-inline'",
         ],
       },
