@@ -58,10 +58,7 @@ app.use(
           'https://fonts.googleapis.com/',
           "'unsafe-inline'",
         ],
-        fontSrc: [
-          "'self'",
-          'https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_FQft1dw.woff2',
-        ],
+        fontSrc: ["'self'", 'https://fonts.gstatic.com'],
       },
     },
   })
