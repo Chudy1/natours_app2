@@ -39,18 +39,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/js', express.static(path.join(__dirname, 'public/js')));
 
 // Set security http header
-// Get the default directives
-const defaultDirectives = helmet.contentSecurityPolicy.getDefaultDirectives();
 
-// Modify the connect-src directive to include 'natours-tours-2.onrender.com'
-defaultDirectives['connect-src'] = ["'self'", 'natours-tours-2.onrender.com'];
-
-// Use the modified directives in the CSP middleware
-app.use(helmet.contentSecurityPolicy({ directives: defaultDirectives }));
-
-/*
 app.use(
   helmet({
+    useDefaults: true,
     contentSecurityPolicy: {
       directives: {
         defaultSrc: ["'self'"],
@@ -59,7 +51,6 @@ app.use(
     },
   })
 );
-*/
 
 //Development logging
 if (process.env.NODE_ENV === 'development') {
