@@ -54,7 +54,7 @@ app.use(
           'https://api.mapbox.com',
         ],
         scriptSrc: ["'self'", "'unsafe-inline'"],
-        styleSrc: ["'self'", "'unsafe-inline'"],
+        styleSrc: ["'self'", '*'],
         fontSrc: ["'self'"],
       },
     },
